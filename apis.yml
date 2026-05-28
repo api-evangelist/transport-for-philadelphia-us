@@ -1,0 +1,32 @@
+aid: transport-for-philadelphia-us
+name: Transport for Philadelphia, US
+description: "SEPTA APIs"
+url: http://www3.septa.org/hackathon/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Transportation"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Transportation
+  - Public APIs
+apis:
+  - name: Transport for Philadelphia, US
+    description: "SEPTA APIs"
+    humanURL: http://www3.septa.org/hackathon/
+    baseURL: http://www3.septa.org/hackathon/
+    tags:
+      - Transportation
+    properties:
+      - type: Documentation
+        url: http://www3.septa.org/hackathon/
+common:
+  - type: Website
+    url: http://www3.septa.org/hackathon/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
