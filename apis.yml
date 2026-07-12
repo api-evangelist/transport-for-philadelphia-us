@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: http://www3.septa.org/hackathon/
 common:
+  - type: DomainSecurity
+    url: security/transport-for-philadelphia-us-domain-security.yml
   - type: Website
     url: http://www3.septa.org/hackathon/
   - type: PublicAPIsListing
