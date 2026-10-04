@@ -39,7 +39,6 @@ apis:
   - name: Transport for Philadelphia, US
     description: "SEPTA APIs"
     humanURL: http://www3.septa.org/hackathon/
-    baseURL: http://www3.septa.org/hackathon/
     tags:
       - Transportation
     properties:
